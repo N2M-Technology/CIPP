@@ -1,4 +1,4 @@
----
+ ---
 name: Check for Version Update
 on:
   pull_request:
